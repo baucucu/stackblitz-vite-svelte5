@@ -4,4 +4,4 @@
 
 	console.log(data.sections); // [{ slug: 'profile', title: 'Profile' }, ...]
 </script>
-<h2>Profile</h2>
+<h2>Notifications</h2>
